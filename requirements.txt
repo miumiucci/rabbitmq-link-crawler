@@ -1,0 +1,5 @@
+aiohttp==3.11.9
+aio-pika==9.5.3
+requests==2.32.3
+beautifulsoup4==4.12.3
+pika
